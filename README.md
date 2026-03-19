@@ -27,20 +27,20 @@ Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+<img width="555" height="78" alt="image" src="https://github.com/user-attachments/assets/7f1f280b-57b9-46c6-b09e-dcb3573ed994" />
 
 ## COMMAND AND OUTPUT
-
-
 Create the file Rose.txt
+<img width="536" height="72" alt="Screenshot 2026-03-19 202514" src="https://github.com/user-attachments/assets/5ffe7b65-55d1-4434-b8db-fdb90e9cd4d5" />
 
 ## COMMAND AND OUTPUT
-
-
 Create the file hello.txt using echo and redirection
+<img width="969" height="439" alt="Screenshot 2026-03-19 201710" src="https://github.com/user-attachments/assets/b15ca38a-21f9-4154-a1a0-4372564c663b" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+<img width="1061" height="377" alt="Screenshot 2026-03-19 202615" src="https://github.com/user-attachments/assets/5d1275f9-346c-4452-ac15-a200aead7fef" />
 
 ## COMMAND AND OUTPUT
 
